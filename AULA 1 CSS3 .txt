@@ -1,0 +1,11 @@
+CSS3:
+
+é um linguagem de estilo criado em 1995 "é simplesmente: vc cria reglar para elementos ou grupo de elementos" usamos a âncora usamos seletores, este são elementos de HTML e dento de uma barra de chves temos as declarações {color: blue;font-size: 14 px;} as declarações são formadas por uma propriedade e um valor. hà inumeras propriedades.
+
+ID X CLASSE: nos vimos que cuando se programaban no HTML tinhamos varios headers espalhados no titulo ou subtitulos, neste caso usaremos id x classe para diferenciar:
+
+duas diferenças:
+-no HTML vc declara se ID com a palvra ID e a classe com a palavra CLASS
+-no CSS vc declara seu ID # e sua classe é presedida por um ponto (.)
+
+o ID se pode usar so uma vez por pagina.
