@@ -1,6 +1,6 @@
 CSS3:
 
-é um linguagem de estilo criado em 1995 "é simplesmente: vc cria reglar para elementos ou grupo de elementos" usamos a âncora usamos seletores, este são elementos de HTML e dento de uma barra de chves temos as declarações {color: blue;font-size: 14 px;} as declarações são formadas por uma propriedade e um valor. hà inumeras propriedades.
+é um linguagem de estilo criado em 1995 "é simplesmente: vc cria reglas para elementos ou grupo de elementos" usamos a âncora usamos seletores, este são elementos de HTML e dento de uma barra de chves temos as declarações {color: blue;font-size: 14 px;} as declarações são formadas por uma propriedade e um valor. hà inumeras propriedades.
 
 ID X CLASSE: nos vimos que cuando se programaban no HTML tinhamos varios headers espalhados no titulo ou subtitulos, neste caso usaremos id x classe para diferenciar:
 
@@ -36,7 +36,7 @@ estilizando elementos:
 
 PADDING E MARGIN:
 
-la forma mas dficil ahora es atribir diferentes tamanhos para cada lado tem treis formas de fazer isso.
+la forma mas dficil ahora es atribuir diferentes tamanhos para cada lado tem treis formas de fazer isso.
 1 coloca valores no superior e inferior e a outra a os lados iz, direito.
 2 coloca dos vaores: padding 10px 10px 
 3 coloca cuatro valores: padding 15x 10x 15x 10px
@@ -117,7 +117,7 @@ EXEMPLO;
 .post_title { font-size: 18px;}
 
 FONT-STYLE
-
+altera o tipo de letra
 EXEMPLO:
 #title{ font-style: normal; }
 .subtitle {font-style: italic;} (CURSIVA)
