@@ -1,14 +1,14 @@
-<SECTION> representa uma seÁ„o generica de conteudo com UMA LISTA DE artigos 
-<header> pode ser o cabeÁalho da p·gina ou parte de uma section
+<SECTION> representa uma se√ß√£o generica de conteudo com UMA LISTA DE artigos 
+<header> pode ser o cabe√ßalho da p√°gina ou parte de uma section
 <article> representa um conteudo relevante dentro de tua pagina
-<aside> representa um conteudo relacionado ou principal da p·gina ou 	biografia de um autor normalmente fica no lateral 
+<aside> representa um conteudo relacionado ou principal da p√°gina ou 	biografia de um autor normalmente fica no lateral 
 <footer> pode ser um rodape de uma section 
-<h1>-<h6> representa a importancia de um titulo dentro de uma pagina. a regra È que sÛ pode haver um h1 por pagina
+<h1>-<h6> representa a importancia de um titulo dentro de uma pagina. a regra √© que s√≥ pode haver um h1 por pagina
 -----------------------------------------------------------------------------
 TEXTOS E LINKS:
-<H1> TÌtulo da pagina</h1>
-<h2> titulo de seÁ„o</h2>
-<h3> tÌtulo de artigo</h3>
+<H1> T√≠tulo da pagina</h1>
+<h2> titulo de se√ß√£o</h2>
+<h3> t√≠tulo de artigo</h3>
 <p> conteudo do artigo</p>
 ----------------------------------------------------------------------
 <a>link</a>
@@ -19,18 +19,18 @@ TEXTOS E LINKS:
 <a target="_blank">link</a> ---> indica como o nosso link vai ser aberto 
 na outra janela
 ----------------------------------------------------------------------
-EXERCÕCIO
+EXERC√çCIO
 
 VAMOS ADICIONAR UM TEXTO A NOSSA POSTAGEM E UM LINK DENTRO DESSE TEXTO
 
-texto<a href="https://www.linkedin.com/in/jose-cahuachia-6647b7199" target="_blank"> the main text, </a>texto
+texto<a href="https://www.linkedin.com/in/jose-cahuachia-6647b7199" target="_blank"> the main text, </a>texto ##(IMPORTANT)## 
 
 -----------------------------------------------------------------------
 IMAGES
 
 <img>
 <img src="img/avatar.jpg">
-<img alt="foto de jose cahuachia"> ele È altamente recomendado para a sensibilidade ela mostra a descripÁ„o da foto cuando n„o È cargada os leitores de tela usam esa descriÁ„o para mostrar para os usuarios o que aquela imagen significa
+<img alt="foto de jose cahuachia"> ele √© altamente recomendado para a sensibilidade ela mostra a descrip√ß√£o da foto cuando n√£o √© cargada os leitores de tela usam esa descri√ß√£o para mostrar para os usuarios o que aquela imagen significa
 
 EXERCICIO
 
@@ -38,11 +38,11 @@ EXERCICIO
 -------------------------------------------------------------------------
 LISTAS
 
-<ul> representa um serie de lista onde o ordem n„o È importante
+<ul> representa um serie de lista onde o ordem n√£o √© importante
 item 1
 item 2
 
-<ol> representa a ordem dos items È importante 
+<ol> representa a ordem dos items √© importante 
 1 item
 2 item
 
